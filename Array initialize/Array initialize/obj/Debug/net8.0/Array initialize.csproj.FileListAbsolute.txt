@@ -1,0 +1,14 @@
+C:\Users\LENOVA\Desktop\Code Task\Array initialize,access modifiers2\Array initialize\Array initialize\bin\Debug\net8.0\Array initialize.exe
+C:\Users\LENOVA\Desktop\Code Task\Array initialize,access modifiers2\Array initialize\Array initialize\bin\Debug\net8.0\Array initialize.deps.json
+C:\Users\LENOVA\Desktop\Code Task\Array initialize,access modifiers2\Array initialize\Array initialize\bin\Debug\net8.0\Array initialize.runtimeconfig.json
+C:\Users\LENOVA\Desktop\Code Task\Array initialize,access modifiers2\Array initialize\Array initialize\bin\Debug\net8.0\Array initialize.dll
+C:\Users\LENOVA\Desktop\Code Task\Array initialize,access modifiers2\Array initialize\Array initialize\bin\Debug\net8.0\Array initialize.pdb
+C:\Users\LENOVA\Desktop\Code Task\Array initialize,access modifiers2\Array initialize\Array initialize\obj\Debug\net8.0\Array initialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVA\Desktop\Code Task\Array initialize,access modifiers2\Array initialize\Array initialize\obj\Debug\net8.0\Array initialize.AssemblyInfoInputs.cache
+C:\Users\LENOVA\Desktop\Code Task\Array initialize,access modifiers2\Array initialize\Array initialize\obj\Debug\net8.0\Array initialize.AssemblyInfo.cs
+C:\Users\LENOVA\Desktop\Code Task\Array initialize,access modifiers2\Array initialize\Array initialize\obj\Debug\net8.0\Array initialize.csproj.CoreCompileInputs.cache
+C:\Users\LENOVA\Desktop\Code Task\Array initialize,access modifiers2\Array initialize\Array initialize\obj\Debug\net8.0\Array initialize.dll
+C:\Users\LENOVA\Desktop\Code Task\Array initialize,access modifiers2\Array initialize\Array initialize\obj\Debug\net8.0\refint\Array initialize.dll
+C:\Users\LENOVA\Desktop\Code Task\Array initialize,access modifiers2\Array initialize\Array initialize\obj\Debug\net8.0\Array initialize.pdb
+C:\Users\LENOVA\Desktop\Code Task\Array initialize,access modifiers2\Array initialize\Array initialize\obj\Debug\net8.0\Array initialize.genruntimeconfig.cache
+C:\Users\LENOVA\Desktop\Code Task\Array initialize,access modifiers2\Array initialize\Array initialize\obj\Debug\net8.0\ref\Array initialize.dll

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVA\\Desktop\\Code Task\\Array initialize,access modifiers2\\Array initialize\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1AA811-F0CA-4508-8071-FF298CD1EF33}|Array initialize\\Array initialize.csproj|c:\\users\\lenova\\desktop\\code task\\array initialize,access modifiers2\\array initialize\\array initialize\\booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1AA811-F0CA-4508-8071-FF298CD1EF33}|Array initialize\\Array initialize.csproj|solutionrelative:array initialize\\booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1AA811-F0CA-4508-8071-FF298CD1EF33}|Array initialize\\Array initialize.csproj|c:\\users\\lenova\\desktop\\code task\\array initialize,access modifiers2\\array initialize\\array initialize\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1AA811-F0CA-4508-8071-FF298CD1EF33}|Array initialize\\Array initialize.csproj|solutionrelative:array initialize\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1AA811-F0CA-4508-8071-FF298CD1EF33}|Array initialize\\Array initialize.csproj|c:\\users\\lenova\\desktop\\code task\\array initialize,access modifiers2\\array initialize\\array initialize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1AA811-F0CA-4508-8071-FF298CD1EF33}|Array initialize\\Array initialize.csproj|solutionrelative:array initialize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Code Task\\Array initialize,access modifiers2\\Array initialize\\Array initialize\\BookLibrary.cs",
+              "RelativeDocumentMoniker": "Array initialize\\BookLibrary.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Code Task\\Array initialize,access modifiers2\\Array initialize\\Array initialize\\BookLibrary.cs",
+              "RelativeToolTip": "Array initialize\\BookLibrary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:24:07.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Code Task\\Array initialize,access modifiers2\\Array initialize\\Array initialize\\Book.cs",
+              "RelativeDocumentMoniker": "Array initialize\\Book.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Code Task\\Array initialize,access modifiers2\\Array initialize\\Array initialize\\Book.cs",
+              "RelativeToolTip": "Array initialize\\Book.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:22:09.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVA\\Desktop\\Code Task\\Array initialize,access modifiers2\\Array initialize\\Array initialize\\Program.cs",
+              "RelativeDocumentMoniker": "Array initialize\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVA\\Desktop\\Code Task\\Array initialize,access modifiers2\\Array initialize\\Array initialize\\Program.cs",
+              "RelativeToolTip": "Array initialize\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:21:40.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
