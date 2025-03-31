@@ -15,6 +15,7 @@
             bookLibrary.Add(book1);
             bookLibrary.Add(book2);
             bookLibrary.Add(book3);
+            bookLibrary.Add(new Book("Dostlari nece qazanmali", "Deyl Karnegi"));
 
             bookLibrary.ShowAll();
 
